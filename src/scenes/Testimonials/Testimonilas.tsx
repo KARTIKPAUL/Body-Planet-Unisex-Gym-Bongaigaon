@@ -4,20 +4,20 @@ import "slick-carousel/slick/slick-theme.css";
 
 const testimonials = [
   {
-    name: "Sanjana Pal",
-    feedback: "Best gym in our area and an excellent atmosphere and highly skilled trainers. The environment is clean, welcoming, and motivating, making every workout enjoyable. The trainers are knowledgeable and attentive, providing personalized guidance that really helps achieve fitness goals. Overall, it’s a great place to work out and stay fit.😊😊😊",
-    image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "Ashim saha",
+    feedback: "Best gym ever the training was amazing and i m going in this gym from 1yrs the results is amazing I got the results in a 3 months in a amazing prefer shape so guys join us hurry up",
+    image: "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 5,
   },
   {
-    name: "Ainesh Banerjee",
-    feedback: "This gym is a fantastic find .The trainer are incredibly friendly and knowledgeable always ready to offer guidance and support ,no matter your fitness level .The equipment is top notch,well maintained and offers a wide variety of all type workout .The atmosphere is positive and motivating ..",
+    name: "Jishan De",
+    feedback: "Trainer is friendly! He will guide you nicely! Gym members are also supportive and have good behaviour! Price is reasonable! Equipments are enough for a regular gym ! Definitely gonna recommend if you are from around here",
     image: "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 4,
   },
   {
-    name: "Supratik Mondal",
-    feedback: "Probably the best budget gym (if not the best) out there in Maheshtala+Budge Budge.. They offer premium experience at a reasonable cost with decent area for workout, helpful trainers, almost everything you can ask for. A positive environment, people support each other... Been working out since May, and I've had a good experience.",
+    name: "Ram Ray",
+    feedback: "One of the best gym in bongaigaon.... everything is just perfect the choice of songs to make u feel energetic, a very friendly trainer who knows exactly what u want l...don't think just join it...it will be worth of your money",
     image: "https://images.pexels.com/photos/6260921/pexels-photo-6260921.jpeg?auto=compress&cs=tinysrgb&w=600",
     
     rating: 4,
