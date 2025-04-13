@@ -68,7 +68,7 @@ const Footer = () => {
               </div>
               <div>
                 
-                <p className="text-lg text-white"> <span className="font-medium text-orange-500">Phone: </span> 099077 30482</p>
+                <p className="text-lg text-white"> <span className="font-medium text-orange-500">Phone: </span> 7002320991</p>
               </div>
             </li>
             <li className="flex items-start gap-4">
@@ -77,8 +77,8 @@ const Footer = () => {
               </div>
               <div>
                 
-                <a href="mailto:abuilderhut22@gmail.com" className="text-lg text-white hover:text-orange-400 transition-colors"> <span className="font-medium text-orange-500">Email: </span>
-                abuilderhut22@gmail.com
+                <a href="mailto:support@bodyplanetgym.com" className="text-lg text-white hover:text-orange-400 transition-colors"> <span className="font-medium text-orange-500">Email: </span>
+                support@bodyplanetgym.com
                 </a>
               </div>
             </li>
@@ -89,17 +89,17 @@ const Footer = () => {
               <div>
                 
                 <p className="text-lg text-white leading-relaxed"> <span className="font-medium text-orange-500">Address: </span>
-                budge budge trunk road, Kolkata, India, West Bengal
+                TR Phukan Rd, Mayapuri, Bongaigaon, Assam 783380
                 </p>
               </div>
             </li>
             <li className="mt-4">
 
           
-            
+           
            
               <iframe 
-                src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.3509657213453!2d88.2070474752981!3d22.491011579549838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c4a43e54ebf%3A0x29d23e9002146df4!2sBudge%20Budge%20Trunk%20Rd%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1741690274600!5m2!1sen!2sin"
+                src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3571.3818756560713!2d90.56426097542443!3d26.475646676910372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3758fe577215846d%3A0xcab55940f1bda795!2sTR%20Phukan%20Rd%2C%20Mayapuri%2C%20Bongaigaon%2C%20Assam%20783380!5e0!3m2!1sen!2sin!4v1744540012758!5m2!1sen!2sin"
                 className="w-full h-48 rounded-xl border-2 border-gray-700 shadow-lg hover:shadow-xl transition-shadow"
                 allowFullScreen
                 loading="lazy"
@@ -113,7 +113,7 @@ const Footer = () => {
       <div className="w-full max-w-7xl border-t border-gray-800"></div>
       
       <p className="text-center text-white text-sm">
-      Copyright © 2025 A Builder Hut Box Fitness Gym - All Rights Reserved | A A Builder Hut Box Company!. Crafted with ❤️ in India
+      Copyright © 2025 BODY Planet Unisex Fitness Gym - All Rights Reserved | A BODY Planet Unisex Gym!. Crafted with ❤️ in India
       </p>
     </div>
     </>

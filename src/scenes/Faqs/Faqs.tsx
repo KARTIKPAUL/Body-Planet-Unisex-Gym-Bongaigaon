@@ -14,8 +14,8 @@ const Faqs: React.FC = () => {
       answer: "Our gym is open from 5:00 AM to 10:00 PM, Monday to Saturday. We are closed on Sundays.",
     },
     {
-      question: "Where is A Builder Hut  Gym located?",
-      answer: "budge budge trunk road, Kolkata, India, West Bengal",
+      question: "Where is BODY Planet Unisex Gym located?",
+      answer: "TR Phukan Rd, Mayapuri, Bongaigaon, Assam 783380",
     },
     {
       question: "Do you offer a free trial?",
